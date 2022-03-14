@@ -1,4 +1,4 @@
-![](https://wakatime.com/badge/user/be79098d-c59e-407c-8952-0f274bb9e265/project/9438b844-da0b-41b9-ad7f-ba6796f8beb7.svg)
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Math Magicians 🧮
 
@@ -41,7 +41,7 @@ To get a local copy up and running follow these simple steps.
 
 - Use this command to get a copy:
 ```
-git clone https://github.com/Kakalanp/TO-DO-list.git
+git clone https://github.com/Kakalanp/Math-Magicians.git
 ```
 
 - then, run `npm install` in your comand prompt, this will install all the listed dependencies on the package.json file.
