@@ -1,67 +1,68 @@
 import React from 'react';
+import styles from './Calculator.module.css';
 
 export default function Calculator() {
   return (
-    <div className="calculator-container">
-      <div>
+    <div className={styles.calculator}>
+      <div className={styles.calculator__input}>
         <p>0</p>
       </div>
-      <div>
-        <a href>AC</a>
+      <div className={styles.calculator__button__grey}>
+        <p>AC</p>
       </div>
-      <div>
-        <a href>+/-</a>
+      <div className={styles.calculator__button__grey}>
+        <p>+/-</p>
       </div>
-      <div>
-        <a href>%</a>
+      <div className={styles.calculator__button__grey}>
+        <p>%</p>
       </div>
-      <div>
-        <a href>÷</a>
+      <div className={styles.calculator__button__orange}>
+        <p>÷</p>
       </div>
-      <div>
-        <a href>7</a>
+      <div className={styles.calculator__button__grey}>
+        <p>7</p>
       </div>
-      <div>
-        <a href>8</a>
+      <div className={styles.calculator__button__grey}>
+        <p>8</p>
       </div>
-      <div>
-        <a href>9</a>
+      <div className={styles.calculator__button__grey}>
+        <p>9</p>
       </div>
-      <div>
-        <a href>X</a>
+      <div className={styles.calculator__button__orange}>
+        <p>x</p>
       </div>
-      <div>
-        <a href>4</a>
+      <div className={styles.calculator__button__grey}>
+        <p>4</p>
       </div>
-      <div>
-        <a href>5</a>
+      <div className={styles.calculator__button__grey}>
+        <p>5</p>
       </div>
-      <div>
-        <a href>6</a>
+      <div className={styles.calculator__button__grey}>
+        <p>6</p>
       </div>
-      <div>
-        <a href>-</a>
+      <div className={styles.calculator__button__orange}>
+        <p>-</p>
       </div>
-      <div>
-        <a href>1</a>
+      <div className={styles.calculator__button__grey}>
+        <p>1</p>
       </div>
-      <div>
-        <a href>2</a>
+      <div className={styles.calculator__button__grey}>
+        <p>2</p>
       </div>
-      <div>
-        <a href>3</a>
+      <div className={styles.calculator__button__grey}>
+        <p>3</p>
       </div>
-      <div>
-        <a href>+</a>
+      <div className={styles.calculator__button__orange}>
+        <p>+</p>
       </div>
-      <div>
-        <a href>0</a>
+      <div className={`${styles.calculator__button__grey} ${styles.calculator__button__zero}`}>
+        <p>0</p>
       </div>
-      <div>
-        <a href>.</a>
+      <div className={styles.calculator__button__grey}>
+        <p>.</p>
       </div>
-      <div>
-        <a href>=</a>
+      <div className={styles.calculator__button__orange}>
+        <p>=</p>
       </div>
     </div>
   );
