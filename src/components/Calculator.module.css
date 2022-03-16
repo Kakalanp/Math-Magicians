@@ -26,7 +26,7 @@ div p {
   font-size: 1.5rem;
 }
 
-.calculator__input {
+.calculator__result {
   grid-column: 1 / 5;
   background-color: #858693;
   text-align: right;
