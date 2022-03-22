@@ -16,6 +16,10 @@
 - Twitter: [@LeccaJoaquin](https://twitter.com/LeccaJoaquin)
 - LinkedIn: [Joaquin Garrido Lecca Zanetti](https://www.linkedin.com/in/joaquín-garrido-lecca-zanetti-623583204)
 
+## Live page:
+
+[Here](https://kakalanp.github.io/Math-Magicians/)
+
 ## Contributing: 🤝
 
 Contributions, issues, and feature requests are welcome!

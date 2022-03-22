@@ -10,9 +10,9 @@ import './App.css';
 export default function App() {
   return (
     <Routes>
-      <Route path="Calculator" element={<Calculator />} />
-      <Route path="" element={<Home />} />
-      <Route path="Quote" element={<Quote />} />
+      <Route path="Math-Magicians/Calculator" element={<Calculator />} />
+      <Route path="Math-Magicians/" element={<Home />} />
+      <Route path="Math-Magicians/Quote" element={<Quote />} />
     </Routes>
   );
 }
