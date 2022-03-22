@@ -1,0 +1,21 @@
+* {
+  color: #000;
+}
+
+ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  width: 40%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  box-shadow: 2px 4px 5px 0 rgba(0, 0, 0, 0.3);
+}
