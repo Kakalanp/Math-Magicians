@@ -24,7 +24,7 @@ export default function Navbar() {
       <ul>
         {pages.map((link) => (
           <li key={link.id}>
-            <Link to={link.path} exact>{link.name}</Link>
+            <Link to={`Math-Magicians/${link.path}`} exact>{link.name}</Link>
           </li>
         ))}
       </ul>
