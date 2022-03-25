@@ -16,6 +16,7 @@ exports[`renders correctly 1`] = `
   >
     <div
       className="calculator__result"
+      data-testid="display"
     >
       <p>
         0
