@@ -1,0 +1,352 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="page"
+>
+  <div
+    className="text"
+  >
+    <p>
+      Lets do some math!
+    </p>
+  </div>
+  <div
+    className="calculator"
+  >
+    <div
+      className="calculator__result"
+      data-testid="display"
+    >
+      <p>
+        0
+         
+         
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        AC
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        +/-
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        %
+      </p>
+    </div>
+    <div
+      className="calculator__button__orange"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        ÷
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        7
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        8
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        9
+      </p>
+    </div>
+    <div
+      className="calculator__button__orange"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        x
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        4
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        5
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        6
+      </p>
+    </div>
+    <div
+      className="calculator__button__orange"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        -
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        1
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        2
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        3
+      </p>
+    </div>
+    <div
+      className="calculator__button__orange"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        +
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey calculator__button__zero"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        0
+      </p>
+    </div>
+    <div
+      className="calculator__button__grey"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        .
+      </p>
+    </div>
+    <div
+      className="calculator__button__orange"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      <p
+        style={
+          Object {
+            "userSelect": "none",
+          }
+        }
+      >
+        =
+      </p>
+    </div>
+  </div>
+</div>
+`;

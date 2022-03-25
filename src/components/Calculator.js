@@ -20,7 +20,7 @@ export default function Calculator() {
         <p>Lets do some math!</p>
       </div>
       <div className={styles.calculator}>
-        <div className={styles.calculator__result}>
+        <div data-testid="display" className={styles.calculator__result}>
           <p>
             {total}
             {' '}
