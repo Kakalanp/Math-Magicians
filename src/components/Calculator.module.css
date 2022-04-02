@@ -1,3 +1,10 @@
+.page {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 60px 10%;
+}
+
 @supports (display: grid) {
   .calculator {
     display: grid;
@@ -16,17 +23,18 @@
 }
 
 .calculator {
-  max-width: 550px;
-  margin: auto;
+  width: 550px;
+  border: 4px solid black;
+  border-radius: 9px;
 }
 
-div p {
+p {
   padding: 20px;
   margin: 0;
   font-size: 1.5rem;
 }
 
-.calculator__input {
+.calculator__result {
   grid-column: 1 / 5;
   background-color: #858693;
   text-align: right;

@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="page"
+>
+  <h2>
+    Welcome to our page
+  </h2>
+  <p>
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit iusto eum fugit magnam? In esse dolorum quos odio nisi obcaecati, voluptatibus commodi facere expedita, impedit odit fugit, a sed maxime?
+    <br />
+    <br />
+    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Impedit iusto eum fugit magnam? In esse dolorum quos odio nisi obcaecati, voluptatibus commodi facere expedita, impedit odit fugit, a sed maxime?
+  </p>
+</div>
+`;
